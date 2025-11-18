@@ -56,6 +56,7 @@ resource "aws_vpc" "myvpc" {
 
 * Helps define IP ranges
 * Forms the foundation for networking components
+* Refer the userdata fil, you can find the CIDR block
 
 ---
 

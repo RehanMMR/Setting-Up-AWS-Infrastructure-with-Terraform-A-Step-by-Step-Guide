@@ -20,7 +20,10 @@ This architecture provides **high availability**, **internet accessibility**, an
 
 ## 🖼️ Architecture Diagram
 
-![Architecture](Terraform_infra.webp)
+## Terraform Infrastructure Setup on AWS
+
+![Architecture](sandbox:/mnt/data/Screenshot%202025-11-18%20153614.png)
+
 
 ---
 
@@ -216,6 +219,7 @@ Terraform will output something like:
 ```
 loadbalancerdns = myalb-1234567890.us-east-1.elb.amazonaws.com
 ```
+(The url might differ in your case.)
 
 Paste the URL into your browser to access the application.
 
@@ -262,6 +266,5 @@ By completing this project, you learn:
 **Rehan Mohammed**
 AWS | Terraform | Cloud Projects
 
-```
 
 

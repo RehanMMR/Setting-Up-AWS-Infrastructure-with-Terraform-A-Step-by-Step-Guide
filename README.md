@@ -1,5 +1,13 @@
 # 🌐 AWS Web Infrastructure Using Terraform
 
+## 🖼️ Architecture Diagram
+
+## Terraform Infrastructure Setup on AWS
+
+<img width="1379" height="579" alt="Screenshot 2025-11-18 153614" src="https://github.com/user-attachments/assets/b3031fdb-7652-4b63-a4a2-430f3a0df8ae" />
+
+
+
 This project provisions a complete AWS web infrastructure using **Terraform**, including:
 
 - Custom VPC  
@@ -18,11 +26,6 @@ This architecture provides **high availability**, **internet accessibility**, an
 
 ---
 
-## 🖼️ Architecture Diagram
-
-## Terraform Infrastructure Setup on AWS
-
-![Terraform_infra](https://github.com/user-attachments/assets/da78aeb5-665b-4b94-aa10-965cd5fe578d)
 
 
 ---

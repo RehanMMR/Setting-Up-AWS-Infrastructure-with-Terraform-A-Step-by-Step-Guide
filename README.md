@@ -22,7 +22,8 @@ This architecture provides **high availability**, **internet accessibility**, an
 
 ## Terraform Infrastructure Setup on AWS
 
-<img width="611" height="481" alt="VPC Architecture" src="sandbox:/mnt/data/Screenshot%202025-11-18%20153614.png" />
+<img width="611" height="481" alt="VPC Architecture" src="./images/vpc-architecture.png" />
+
 
 
 ---
